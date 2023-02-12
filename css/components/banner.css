@@ -1,0 +1,18 @@
+.banner {
+  /*padding top and bottom */
+  padding: 200px 0;
+  /* avoiding stretching*/
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  color: white;
+
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  opacity: 0.7px;
+}

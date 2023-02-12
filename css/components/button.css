@@ -1,0 +1,9 @@
+.btn-primary{
+background-color: #1EDD88;
+/*formating done at inspect*/
+color: white;
+padding: 16px 36px;
+border-radius: 50px;
+/*can't format margin due to inline code! Use display block instead to separate btn from p*/
+display: inline-block;
+}
